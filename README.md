@@ -35,8 +35,15 @@ license: creativeml-openrail-m
 ![alt text](assets/hnv.gif)
 
 ## Requirements.txt PyPI
-
-
+            torch
+            torchvision
+            opencv-python
+            timm
+            tqdm
+            kornia
+            gdown
+            transparent-background
+            
 .
 
 .
