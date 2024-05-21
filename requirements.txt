@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+timm
+tqdm
+kornia
+gdown
+transparent-background
