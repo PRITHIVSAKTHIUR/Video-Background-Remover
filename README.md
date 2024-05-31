@@ -9,7 +9,7 @@ app_file: app.py
 pinned: true
 license: creativeml-openrail-m
 ---
-![alt text](assets/xx.png)
+![alt text](assets/44.png)
 
 🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
